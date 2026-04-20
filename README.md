@@ -3,7 +3,7 @@
 A full-stack Task Manager web application built with FastAPI, SQLite, JWT authentication, and a clean responsive frontend.
 
 ## 🌐 Live Demo
-> **https://taskmanager-app-csog.onrender.com/** ← Replace after deploying
+> **https://taskmanager-app-csog.onrender.com/** ← Deployment URL
 
 ## 📌 Project Overview
 
